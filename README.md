@@ -1,4 +1,4 @@
-# Análise de satisfação dos clientes com PNL
+# Análise de satisfação dos clientes com NPL
 
 **Problema de negócio**: entendendo os clientes...
 
